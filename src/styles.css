@@ -1,0 +1,22 @@
+.App {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: large;
+}
+div {
+  margin: 50px;
+  text-align: justify;
+}
+
+.here {
+  color: green;
+  display: inline;
+}
+.nothere {
+  color: red;
+  display: inline;
+}
+
+.phrase {
+  padding-left: 10%;
+}
